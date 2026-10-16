@@ -25,16 +25,6 @@ maquinaria y equipos.
 En más de 20 años en construcción hemos ejecutado **más de 300 proyectos** a lo largo de
 Chile, con obras que buscan ser un ejemplo de calidad, profesionalismo y eficiencia.
 
-## Especialidades
-
-| | |
-|---|---|
-| 🛣️ **Obras viales** | Caminos, pavimentación y movimientos de tierra |
-| ⚓ **Obras portuarias** | Infraestructura marítima y ribereña |
-| ✈️ **Obras aeroportuarias** | Pistas, plataformas y obras anexas |
-| 💧 **Obras hidráulicas y APR** | Agua potable rural, canales y obras de riego |
-| 🏗️ **Montaje y edificación** | Estructuras, montaje industrial y edificación |
-
 ## Trabaja con nosotros
 
 Buscamos personas que quieran construir cosas que se usan de verdad, tanto en obra como en
